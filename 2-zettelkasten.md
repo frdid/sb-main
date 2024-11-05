@@ -1,12 +1,12 @@
 ---
 title: Zettelkasten
 description: 
-permalink: 
+permalink: main/zettelkasken
 aliases:
   - Zettelkasten
   - Slip-Box
 tags:
-  - pkm
+  - moc/pkm
 indexes:
   - "[[cm-zettelkasten|MOC Zettelkasten]]"
 draft: false
