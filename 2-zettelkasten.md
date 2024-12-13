@@ -11,7 +11,6 @@ indexes:
   - "[[cm-zettelkasten|MOC Zettelkasten]]"
 draft: false
 date: 
-disunting: true
 ---
 Zettelkasten (Slip-box) adalah sebuah metode manajemen pengetahuan (*knowleadge management*) yang dipopulerkan oleh Niklas Luhmann. Luhmann adalah seorang Sosiolog asal German. Ia telah menerbitkan lebih dari 58 buku dan ratusan artikel dalam kurun waktu 30 tahun. [^1]
 
